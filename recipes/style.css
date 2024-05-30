@@ -1,0 +1,38 @@
+* {
+    font-family: Arial, sans-serif;
+}
+
+h1,
+h3 {
+    font-family: Garamond, serif;
+    letter-spacing: 2px;
+}
+
+h3 {
+    letter-spacing: 0px;
+}
+
+h4 {
+    font-style: italic;
+}
+
+p em {
+    font-weight: bold;
+    color: rgb(76, 153, 76);
+}
+
+ul,
+ol {
+    font-size: 14px;
+    line-height: 150%;
+}
+
+li a {
+    text-decoration: none;
+    font-weight: 800;
+    color: rgb(142, 204, 134);
+}
+
+p i {
+    font-size: 12px;
+}
